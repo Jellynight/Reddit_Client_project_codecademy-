@@ -1,5 +1,4 @@
-# Example Project
-- Reddit client exampleCompleted project sample
+# My Reddit client app project for codecademy!
 
 ## Project Requirements:
 - Build the application using React and Redux
