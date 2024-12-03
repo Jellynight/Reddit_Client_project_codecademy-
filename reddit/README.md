@@ -1,4 +1,4 @@
-# App created using react
+# App created using react developement stage 
 ## Dependencies
 - redux
 - 
